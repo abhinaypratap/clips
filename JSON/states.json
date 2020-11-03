@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "capital": "Hyderabad"
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "capital": "Itanagar"
+  },
+  {
+    "name": "Assam",
+    "capital": "Dispur"
+  },
+  {
+    "name": "Bihar",
+    "capital": "Patna"
+  },
+  {
+    "name": "Chhattisgarh",
+    "capital": "Raipur"
+  },
+  {
+    "name": "Goa",
+    "capital": "Panaji"
+  },
+  {
+    "name": "Gujarat",
+    "capital": "Gandhinagar"
+  },
+  {
+    "name": "Haryana",
+    "capital": "Chandigarh"
+  },
+  {
+    "name": "Himachal Pradesh",
+    "capital": "Shimla"
+  },
+  {
+    "name": "Jharkhand",
+    "capital": "Ranchi"
+  },
+  {
+    "name": "Karnataka",
+    "capital": "Bangalore"
+  },
+  {
+    "name": "Kerala",
+    "capital": "Thirunananthapuram"
+  },
+  {
+    "name": "Madhya Pradesh",
+    "capital": "Bhopal"
+  },
+  {
+    "name": "Maharashtra",
+    "capital": "Mumbai"
+  },
+  {
+    "name": "Manipur",
+    "capital": "Imphal"
+  },
+  {
+    "name": "Meghalaya",
+    "capital": "Shillong"
+  },
+  {
+    "name": "Mizoram",
+    "capital": "Aizawl"
+  },
+  {
+    "name": "Nagaland",
+    "capital": "Kohima"
+  },
+  {
+    "name": "Odisha",
+    "capital": "Bhubaneshwar"
+  },
+  {
+    "name": "Punjab",
+    "capital": "Chandigarh"
+  },
+  {
+    "name": "Rajasthan",
+    "capital": "Jaipur"
+  },
+  {
+    "name": "Sikkim",
+    "capital": "Gangtok"
+  },
+  {
+    "name": "Tamil Nadu",
+    "capital": "Chennai"
+  },
+  {
+    "name": "Telangana",
+    "capital": "Hyderabad"
+  },
+  {
+    "name": "Tripura",
+    "capital": "Agartala"
+  },
+  {
+    "name": "Uttarakhand",
+    "capital": "Dehradun"
+  },
+  {
+    "name": "Uttar Pradhesh",
+    "capital": "Lucknow"
+  },
+  {
+    "name": "West Bengal",
+    "capital": "Kolkata"
+  }
+]
